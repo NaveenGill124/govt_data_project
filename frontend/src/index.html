@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Project Samarth</title>
+
+    <!-- --- THE DEFINITIVE FIX: Loading Libraries from a CDN --- -->
+    <!-- This bypasses the local "Failed to resolve import" error entirely. -->
+    <script src="https://unpkg.com/react@18/umd/react.development.js" crossorigin></script>
+    <script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js" crossorigin></script>
+    <script src="https://unpkg.com/react-markdown@9/lib/react-markdown.js"></script>
+    <script src="https://unpkg.com/remark-gfm@4/lib/index.js"></script>
+    
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>
+
