@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Smooth fade-in */
+.prose > * {
+  animation: fadeIn 0.2s ease-in;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(4px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-thumb {
+  background-color: rgba(34,197,94,0.6);
+  border-radius: 8px;
+}
+
+/* Mobile tweaks */
+@media (max-width: 768px) {
+  body {
+    font-size: 16px;
+  }
+}
