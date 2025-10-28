@@ -1,0 +1,12 @@
+State,District,Year,Season,Crop,Production_Tonnes,Area_Hectares,Source_URL
+Andaman and Nicobar Islands,NICOBARS,2000,Kharif,Arecanut,2000.0,1254.0,https://www.data.gov.in/resource/district-wise-season-wise-crop-production-statistics-1997
+Andaman and Nicobar Islands,NICOBARS,2000,Kharif,Other Kharif pulses,1.0,2.0,https://www.data.gov.in/resource/district-wise-season-wise-crop-production-statistics-1997
+Andaman and Nicobar Islands,NICOBARS,2000,Kharif,Rice,321.0,102.0,https://www.data.gov.in/resource/district-wise-season-wise-crop-production-statistics-1997
+Andaman and Nicobar Islands,NICOBARS,2000,Whole Year,Banana,641.0,176.0,https://www.data.gov.in/resource/district-wise-season-wise-crop-production-statistics-1997
+Andaman and Nicobar Islands,NICOBARS,2000,Whole Year,Cashewnut,165.0,720.0,https://www.data.gov.in/resource/district-wise-season-wise-crop-production-statistics-1997
+Andaman and Nicobar Islands,NICOBARS,2000,Whole Year,Coconut,65100000.0,18168.0,https://www.data.gov.in/resource/district-wise-season-wise-crop-production-statistics-1997
+Andaman and Nicobar Islands,NICOBARS,2000,Whole Year,Dry ginger,100.0,36.0,https://www.data.gov.in/resource/district-wise-season-wise-crop-production-statistics-1997
+Andaman and Nicobar Islands,NICOBARS,2000,Whole Year,Sugarcane,2.0,1.0,https://www.data.gov.in/resource/district-wise-season-wise-crop-production-statistics-1997
+Andaman and Nicobar Islands,NICOBARS,2000,Whole Year,Sweet potato,15.0,5.0,https://www.data.gov.in/resource/district-wise-season-wise-crop-production-statistics-1997
+Andaman and Nicobar Islands,NICOBARS,2000,Whole Year,Tapioca,169.0,40.0,https://www.data.gov.in/resource/district-wise-season-wise-crop-production-statistics-1997
+// ...............
