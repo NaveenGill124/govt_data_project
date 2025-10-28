@@ -1,4 +1,4 @@
-# 🇮🇳 Project Samarth: AI Q&A for Indian Government Data
+# Project Samarth: AI Q&A for Indian Government Data
 
 An intelligent **AI Q&A system** designed to answer **complex, natural language questions** about **India's agricultural economy and climate patterns** by synthesizing data from **disconnected government sources** (both live APIs and static CSVs).
 
