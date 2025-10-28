@@ -13,7 +13,7 @@ It identifies the required tools, executes them in sequence, and synthesizes the
 
 📸 **A-1:** The agent answering a multi-step *compare* query with table output and citations.  
 <!-- Replace this placeholder with your demo image -->
-![Demo Screenshot]()
+![Demo Screenshot](./samarth_demo_1.png)
 
 ---
 
@@ -24,7 +24,7 @@ At its core lies a **multi-step Reasoning Engine (`agent.py`)** that interacts w
 
 📸 **A-2:** Full system architecture from UI to Data Layer.  
 <!-- Replace this placeholder with your architecture diagram -->
-![Architecture Diagram](https://your-architecture-diagram-link-here)
+![Architecture Diagram](./Samarth_Architecture.png)
 
 You can also view the detailed Mermaid.js diagram in the documentation.
 
