@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+langchain
+langchain-openai
+duckdb
+pandas
+langchain-community
+sqlalchemy
+duckdb-engine
+fastapi-cors
