@@ -174,6 +174,6 @@ This project is open-source under the **MIT License**.
 - **Naveen Gill** – Developer & Architect  
 - Contributions welcome! Open a PR or issue on GitHub.
 
-🔗 **GitHub Repository:** [NaveenGill124/project_samarth](https://github.com/NaveenGill124/project_samarth)
+🔗 **GitHub Repository:** [NaveenGill124/govt_data_project]([https://github.com/NaveenGill124/project_samarth](https://github.com/NaveenGill124/govt_data_project))
 
 
